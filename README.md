@@ -1,6 +1,6 @@
-### Welcome to my GitHub Profile! 👋
+### Hi! 👋
 
-As an experienced software engineer with over 4 years of hands-on experience, I thrive in collaborative environments and excel at working with cross-functional teams on multiple projects simultaneously. In my view, effective collaboration is the key to achieving ambitious goals and delivering outstanding results.
+As an experienced software engineer with 5+ years of hands-on experience, I thrive in collaborative environments and excel at working with cross-functional teams on multiple projects simultaneously. In my view, effective collaboration is the key to achieving ambitious goals and delivering outstanding results.
 
 I am passionate about staying up-to-date with the latest industry trends and continuously expanding my skill set. Embracing new challenges and pushing the boundaries of my knowledge is what drives me forward.
 

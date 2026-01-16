@@ -1,9 +1,14 @@
-### Hi! 👋
+# Hi, I'm Refinaldy.
 
-As an experienced software engineer with 5+ years of hands-on experience, I thrive in collaborative environments and excel at working with cross-functional teams on multiple projects simultaneously. In my view, effective collaboration is the key to achieving ambitious goals and delivering outstanding results.
+I’ve always believed that building software shouldn't be a headache.
 
-I am passionate about staying up-to-date with the latest industry trends and continuously expanding my skill set. Embracing new challenges and pushing the boundaries of my knowledge is what drives me forward.
+That’s why I position myself as a **Product Engineer**—somewhere between managing the product roadmap and leading the technical implementation.
 
-If you're looking for a dedicated and skilled software engineer to contribute to your next innovative project or product, I would be thrilled to collaborate. Feel free to reach out to me, and let's discuss how we can work together to bring your vision to life.
+We are living in a time where AI is changing how we code. So, a big part of my work now is figuring out how to use those tools to make developer workflows faster and—honestly—a lot less painful.
 
-Looking forward to connecting with you! 🚀
+**Because at the end of the day, we all just want to ship cool stuff and actually enjoy our weekends.** ☕️
+
+---
+
+**Current Go-To Stack:**
+Go, TypeScript, Node.js, Laravel, Next.js, Docker.
